@@ -56,8 +56,16 @@ Most of what I've posted is creative coding stuff, but I'll probably get more in
 
 <!-- Feel free to reach out with any questions or comments! [Optional: Add your contact information, e.g., ArtStation link, email address, etc.] -->
 ## Dev Log
+### 2025-02-13 9:30 ~1hr
+* Fixed issues with the iris clipping
+* Experimented with shrink wrapping to lock the iris to the eyeball
+* Found some reference images of eye musculature
+* Experimented with some free materials
+* I'm thinking I'll pivot from dystopian prison to dystopian office block 😅
 
-### 2025-02-12 22:00 PM ~4hrs today ooft
+![Blockout 2 - Not so happy with it so far](Renders/Blockout%20Render%202.png)
+
+### 2025-02-12 22:00 ~4hrs today ooft
 * Cleaned up structure of assets
 * Pivoting idea: no longer a prison riot (beyond my scope) but a prison BREAK might be possible...
 * Set up gantry around the perimeter of each level
