@@ -9,15 +9,15 @@
 *.autosave
 
 # Render output (adjust as needed)
-renderoutput/
-renders/
-*.png
-*.jpg
-*.jpeg
-*.exr
-*.tiff
-*.tif
-*.hdr
+# renderoutput/
+# renders/
+# *.png
+# *.jpg
+# *.jpeg
+# *.exr
+# *.tiff
+# *.tif
+# *.hdr
 
 # Cache files
 *.blb
