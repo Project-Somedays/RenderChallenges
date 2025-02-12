@@ -63,6 +63,7 @@ Most of what I've posted is creative coding stuff, but I'll probably get more in
 * Set up gantry around the perimeter of each level
 * Replaced eye with something custom - will have mechanical parts instead of an optical fibre I reckon
 * Fixed an issue with my z array modifier on the gantries - a pesky x offset that didn't belong
+* Placeholder door that will DEFINITELY need replacing
 
 ### 2025-02-11 22:00PM ~2.5hr session
 * Initial blockout of central column and cells
