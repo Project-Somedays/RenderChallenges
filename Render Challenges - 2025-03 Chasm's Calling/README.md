@@ -57,13 +57,14 @@ Most of what I've posted is creative coding stuff, but I'll probably get more in
 <!-- Feel free to reach out with any questions or comments! [Optional: Add your contact information, e.g., ArtStation link, email address, etc.] -->
 ## Dev Log
 
-### 2025-02
+### 2025-02-12
 * Cleaned up structure of assets
 * Pivoting idea: no longer a prison riot (beyond my scope) but a prison BREAK might be possible...
 * Set up gantry around the perimeter of each level
 * Replaced eye with something custom - will have mechanical parts instead of an optical fibre I reckon
 * Fixed an issue with my z array modifier on the gantries - a pesky x offset that didn't belong
 * Placeholder door that will DEFINITELY need replacing
+* Started setting out paths for the rocket troopers to follow
 
 ### 2025-02-11 22:00PM ~2.5hr session
 * Initial blockout of central column and cells
