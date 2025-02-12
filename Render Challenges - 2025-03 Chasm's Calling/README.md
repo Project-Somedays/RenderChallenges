@@ -57,7 +57,7 @@ Most of what I've posted is creative coding stuff, but I'll probably get more in
 <!-- Feel free to reach out with any questions or comments! [Optional: Add your contact information, e.g., ArtStation link, email address, etc.] -->
 ## Dev Log
 
-### 2025-02-12
+### 2025-02-12 22:00 PM ~4hrs today ooft
 * Cleaned up structure of assets
 * Pivoting idea: no longer a prison riot (beyond my scope) but a prison BREAK might be possible...
 * Set up gantry around the perimeter of each level
@@ -65,6 +65,9 @@ Most of what I've posted is creative coding stuff, but I'll probably get more in
 * Fixed an issue with my z array modifier on the gantries - a pesky x offset that didn't belong
 * Placeholder door that will DEFINITELY need replacing
 * Started setting out paths for the rocket troopers to follow
+* Found an excellent [tutorial](https://www.youtube.com/watch?v=L5lyXS-uhyI) that FINALLY taught me how to make an cool mechanical iris after getting VERY confused for a long time.
+* Made an iris and blackplate
+* Gave my rocket trooper temporary jet plumes
 
 ### 2025-02-11 22:00PM ~2.5hr session
 * Initial blockout of central column and cells
