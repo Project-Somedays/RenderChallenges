@@ -1,0 +1,101 @@
+# Blender-specific files and directories
+
+# Blend1 files (backups)
+*.blend1
+
+# Temporary files created by Blender
+*.tmp
+*.lock
+*.autosave
+
+# Render output (adjust as needed)
+renderoutput/
+renders/
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.tiff
+*.tif
+*.hdr
+
+# Cache files
+*.blb
+*.blf
+*.bvh
+
+# User preferences and configuration
+.blender/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyd
+
+# External data (if you don't want to include them in the repo)
+# textures/
+# hdri/
+# models/
+
+# Thumbnails
+*.thumb
+
+# System files (generally ignore these)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled files (if you're using any)
+*.obj.o
+*.o
+*.exe
+*.dll
+
+# Logs (if any)
+*.log
+
+# Version control specific
+.git/  # Already ignored by default, but good to be explicit
+.svn/
+.hg/
+.bzr/
+
+# Editor and IDE files (adjust as needed)
+.idea/
+.vscode/
+*.swp  # Swap files (Vim)
+*~      # Backup files (various editors)
+
+# OS-specific files
+*.DS_Store
+Thumbs.db
+
+# Packages
+*.egg
+dist/
+build/
+
+# Installer files
+*.msi
+*.exe
+
+# Archive files
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Other temporary files
+*~
+# Backup files
+*.bak
+
+# If you use a specific addon and it creates files you don't want to track
+# addon_name/
+
+# Example for specific texture directories you don't want to track
+# textures/high_res/
+
+# Example for specific file types you don't want to track
+*.fbx # If you're exporting and not storing the original files
