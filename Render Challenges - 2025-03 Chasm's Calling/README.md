@@ -40,6 +40,30 @@ Initial Challenges:
 *   I don't know what I'm doing 😅
 <!-- This challenge presented several interesting hurdles, particularly [mention any specific challenges you faced, e.g., optimizing the scene, creating realistic textures, achieving the desired mood, etc.].  Overcoming these challenges allowed me to learn [mention what you learned, e.g., new techniques, improved workflow, etc.]. -->
 
+## TODOs
+### Blockout
+* [X] Central tower
+* [X] Cell
+* [X] Walkways
+* [X] gantries
+* [ ] convert cell to cubicles
+### The tower
+* [ ] The eye chamber first pass
+* [ ] The eye chamber second pass
+* [ ] Texturing
+* [ ] Make 5 different camera models
+* [ ] Stack a billion cameras all over the tower and make them read immediately: back-lighting/silhouette?
+### The Watcher
+* [x] Iris Mechanism
+* [x] Fix Issues with clipping RE Iris Mechanism
+* [x] Robo musculature - first pass
+* [ ] Robo musculature - second pass
+* [ ] Rig armature?
+* [ ] Animate
+### Foreground
+* [ ] Pre-rigged character?
+* 
+
 ## Acknowledgements
 
 Much love to [Pwnisher](https://www.youtube.com/c/pwnisher) and the amazing [CreateWithClint](https://discord.com/invite/createwithclint) Discord community. Looking forward to seeing what everyone came up with.
