@@ -52,7 +52,7 @@ Initial Challenges:
 * [ ] The eye chamber second pass
 * [ ] Texturing
 * [X] Camera A
-* [ ] Camera B
+* [X] Camera B
 * [ ] Camera C
 * [ ] Camera D
 * [ ] Camera E
