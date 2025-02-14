@@ -54,7 +54,7 @@ Initial Challenges:
 * [X] Camera A
 * [X] Camera B
 * [X] Camera C
-* [ ] Camera D
+* [X] Camera D
 * [ ] Camera E
 * [ ] Stack a billion cameras all over the tower and make them read immediately: back-lighting/silhouette?
 ### The Watcher
