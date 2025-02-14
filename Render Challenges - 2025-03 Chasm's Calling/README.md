@@ -53,7 +53,7 @@ Initial Challenges:
 * [ ] Texturing
 * [X] Camera A
 * [X] Camera B
-* [ ] Camera C
+* [X] Camera C
 * [ ] Camera D
 * [ ] Camera E
 * [ ] Stack a billion cameras all over the tower and make them read immediately: back-lighting/silhouette?
