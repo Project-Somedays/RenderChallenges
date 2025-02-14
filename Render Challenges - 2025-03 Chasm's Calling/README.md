@@ -51,7 +51,11 @@ Initial Challenges:
 * [ ] The eye chamber first pass
 * [ ] The eye chamber second pass
 * [ ] Texturing
-* [ ] Make 5 different camera models
+* [X] Camera A
+* [ ] Camera B
+* [ ] Camera C
+* [ ] Camera D
+* [ ] Camera E
 * [ ] Stack a billion cameras all over the tower and make them read immediately: back-lighting/silhouette?
 ### The Watcher
 * [x] Iris Mechanism
