@@ -53,6 +53,7 @@ Initial Challenges:
 * [ ] The eye chamber first pass
 * [ ] The eye chamber second pass
 * [ ] Texturing
+* [ ] Blinking lights on the security cameras
 * [X] Camera A
 * [X] Camera B
 * [X] Camera C
@@ -68,8 +69,11 @@ Initial Challenges:
 * [ ] Rig armature?
 * [ ] Animate
 ### Foreground
-* [ ] Pre-rigged character?
-* 
+* [x] Pre-rigged character?
+* [ ] Smashed pot plant
+* [ ] Security guard body
+* [ ] Dirt trod into the floor
+* [ ] Golf swing paper into space
 
 ## Acknowledgements
 
