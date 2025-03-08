@@ -41,6 +41,8 @@ Initial Challenges:
 <!-- This challenge presented several interesting hurdles, particularly [mention any specific challenges you faced, e.g., optimizing the scene, creating realistic textures, achieving the desired mood, etc.].  Overcoming these challenges allowed me to learn [mention what you learned, e.g., new techniques, improved workflow, etc.]. -->
 
 ## TODOs
+### General
+* [ ] Volumetric fog
 ### Blockout
 * [X] Central tower
 * [X] Cell
@@ -55,8 +57,9 @@ Initial Challenges:
 * [X] Camera B
 * [X] Camera C
 * [X] Camera D
-* [ ] Camera E
 * [ ] Stack a billion cameras all over the tower and make them read immediately: back-lighting/silhouette?
+* [x] Sinister Billboards
+* [x] Animation of sinister billboards
 ### The Watcher
 * [x] Iris Mechanism
 * [x] Fix Issues with clipping RE Iris Mechanism
