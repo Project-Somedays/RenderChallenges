@@ -71,8 +71,7 @@ Initial Challenges:
 * [ ] Animate
 ### Foreground
 * [x] Pre-rigged character?
-* [ ] Smashed pot plant
-* [ ] Security guard body
+* [ ] Security guard bodies
 * [ ] Dirt trod into the floor
 * [ ] Golf swing paper into space
 ### Office Blocks
@@ -84,7 +83,10 @@ Initial Challenges:
 * [x] Toplight
 
 ### To Fix
-* [ ] Flicker formula
+* [x] Flicker formula
+* [ ] Instancing
+* [x] Full depth of cubicles.
+* [ ] 
 
 ## Acknowledgements
 
