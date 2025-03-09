@@ -42,7 +42,7 @@ Initial Challenges:
 
 ## TODOs
 ### General
-* [ ] Volumetric fog
+* [x] Volumetric fog
 ### Blockout
 * [X] Central tower
 * [X] Cell
@@ -53,7 +53,7 @@ Initial Challenges:
 * [ ] The eye chamber first pass
 * [ ] The eye chamber second pass
 * [ ] Texturing
-* [ ] Blinking lights on the security cameras
+* [x] Blinking lights on the security cameras
 * [X] Camera A
 * [X] Camera B
 * [X] Camera C
@@ -61,6 +61,7 @@ Initial Challenges:
 * [ ] Stack a billion cameras all over the tower and make them read immediately: back-lighting/silhouette?
 * [x] Sinister Billboards
 * [x] Animation of sinister billboards
+* [ ] Lighting on the billboards
 ### The Watcher
 * [x] Iris Mechanism
 * [x] Fix Issues with clipping RE Iris Mechanism
@@ -74,6 +75,16 @@ Initial Challenges:
 * [ ] Security guard body
 * [ ] Dirt trod into the floor
 * [ ] Golf swing paper into space
+### Office Blocks
+* [x] Desk
+* [x] Chair
+* [x] Monitor
+* [x] Cabinet
+* [x] Backlight
+* [x] Toplight
+
+### To Fix
+* [ ] Flicker formula
 
 ## Acknowledgements
 
